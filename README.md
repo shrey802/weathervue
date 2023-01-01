@@ -1,5 +1,9 @@
 # weathervue
 
+![Screenshot (48)](https://user-images.githubusercontent.com/55155180/210173312-162d13c9-8085-4d10-8ad8-b3a89d45150d.png)
+
+
+
 ## Project setup
 ```
 npm install
